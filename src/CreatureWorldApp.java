@@ -1,5 +1,7 @@
 import processing.core.PApplet;
 
+// Starter project for practicing use of abstract classes and interfaces.
+
 public class CreatureWorldApp extends PApplet {
     private static CreatureWorldApp app;
     private CreatureWorldThing[] things;
